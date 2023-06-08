@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "name": "Smartwatch 2000",
+    "category": "Watch",
+    "price": "$99.99",
+    "image": "https://cdn1.smartprix.com/rx-iQaJVDc2D-w1200-h1200/QaJVDc2D.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Professional DSLR Camera",
+    "category": "Camera",
+    "price": "$199.99",
+    "image": "https://www.myg.in/images/blog/9/Benefits_of_DSLR_Camera.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ultra-Slim Smartphone",
+    "category": "Mobile",
+    "price": "$299.99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBS4x6vllJ_XNLdbNqol0Cx1WpOeDpsALfgAfoW3ttD74OJGzEgPlSsad4b3IkzmecwGM&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "Classic Cotton T-Shirt",
+    "category": "T-Shirt",
+    "price": "$19.99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFj7GyapGO44zcGAD8R_pG9Cjr8KrpkM-l0AvsqvdOudZ9kuF1lwKgmO6x849slGZX-6k&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "name": "Luxury Chronograph Watch",
+    "category": "Watch",
+    "price": "$149.99",
+    "image": "https://cdn.watchesyoucanafford.com/wp-content/uploads/2022/08/Best-Affordable-Chronograph-Watches.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Compact Mirrorless Camera",
+    "category": "Camera",
+    "price": "$249.99",
+    "image": "https://amateurphotographer.com/wp-content/uploads/sites/7/2021/09/fujifilm-x-t30-mark-ii-in-hand-body-only-1000-jw.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Flagship Smartphone Pro",
+    "category": "Mobile",
+    "price": "$399.99",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202211/best_flagship_phones-sixteen_nine.png?VersionId=pqxw9Nm0AfimmY0BMnNiaxRHUXW4FZ0M&size=690:388"
+  },
+  {
+    "id": 8,
+    "name": "Graphic Print T-Shirt",
+    "category": "T-Shirt",
+    "price": "$29.99",
+    "image": "https://cdn-images.farfetch-contents.com/19/69/00/52/19690052_44157325_1000.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Fitness Tracker Band",
+    "category": "Watch",
+    "price": "$79.99",
+    "image": "https://cdn.trendhunterstatic.com/thumbs/the-whoop-40.jpeg?auto=webp"
+  },
+  {
+    "id": 10,
+    "name": "Mirrorless Camera Kit",
+    "category": "Camera",
+    "price": "$899.99",
+    "image": "https://diamu.com.bd/wp-content/uploads/2021/07/Nikon-Z6-Mirrorless-Digital-Camera-Body-with-FTZ-Mount-Adapter-Kit-2.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Premium Smartphone X",
+    "category": "Mobile",
+    "price": "$599.99",
+    "image": "https://images.pexels.com/photos/15344724/pexels-photo-15344724/free-photo-of-hand-holding-a-fujifilm-x-t-200-camera.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "id": 12,
+    "name": "Graphic Hooded Sweatshirt",
+    "category": "T-Shirt",
+    "price": "$39.99"
+  },
+  {
+    "id": 13,
+    "name": "Stylish Watch",
+    "category": "Watch",
+    "price": "$199.99"
+  },
+  {
+    "id": 14,
+    "name": "Action Camera Kit",
+    "category": "Camera",
+    "price": "$149.99"
+  },
+  {
+    "id": 15,
+    "name": "Wireless Earbuds",
+    "category": "Mobile",
+    "price": "$79.99",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 16,
+    "name": "Printed Polo Shirt",
+    "category": "T-Shirt",
+    "price": "$24.99"
+  },
+  {
+    "id": 16,
+    "name": "Fitness Smartwatch",
+    "category": "Watch",
+    "price": "$129.99"
+  },
+  {
+    "id": 17,
+    "name": "Mirrorless Camera",
+    "category": "Camera",
+    "price": "$599.99"
+  },
+  {
+    "id": 18,
+    "name": "Flagship Smartphone",
+    "category": "Mobile",
+    "price": "$799.99"
+  },
+  {
+    "id": 19,
+    "name": "Casual Polo Shirt",
+    "category": "T-Shirt",
+    "price": "$34.99"
+  },
+  {
+    "id": 20,
+    "name": "Luxury Diving Watch",
+    "category": "Watch",
+    "price": "$299.99"
+  },
+  {
+    "id": 21,
+    "name": "Advanced DSLR Camera",
+    "category": "Camera",
+    "price": "$999.99"
+  },
+  {
+    "id": 22,
+    "name": "High-End Smartphone",
+    "category": "Mobile",
+    "price": "$899.99"
+  },
+  {
+    "id": 23,
+    "name": "Vibrant Graphic T-Shirt",
+    "category": "T-Shirt",
+    "price": "$19.99"
+  }
+]
