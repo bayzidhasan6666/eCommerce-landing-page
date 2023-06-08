@@ -11,6 +11,7 @@ import LatestBlog from './LandingPage/LatestBlog/LatestBlog';
 import ProductBrands from './LandingPage/ProductBrands/ProductBrands';
 import CustomerCare from './LandingPage/CustomerCare/CustomerCare';
 import PaymentMethods from './LandingPage/PaymentMethods/PaymentMethods';
+import DonateSection from './LandingPage/DonateSection/DonateSection';
 
 const App = () => {
   return (
@@ -25,8 +26,8 @@ const App = () => {
       <Newsletter></Newsletter>
       <CustomerCare></CustomerCare>
       <PaymentMethods></PaymentMethods>
+      <DonateSection></DonateSection>
       <Testimonials></Testimonials>
-
       <Footer></Footer>
     </div>
   );
