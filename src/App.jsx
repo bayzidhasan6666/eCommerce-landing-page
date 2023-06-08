@@ -9,6 +9,8 @@ import Footer from './LandingPage/Footer/Footer';
 import Newsletter from './LandingPage/Newsletter/Newsletter';
 import LatestBlog from './LandingPage/LatestBlog/LatestBlog';
 import ProductBrands from './LandingPage/ProductBrands/ProductBrands';
+import CustomerCare from './LandingPage/CustomerCare/CustomerCare';
+import PaymentMethods from './LandingPage/PaymentMethods/PaymentMethods';
 
 const App = () => {
   return (
@@ -21,7 +23,10 @@ const App = () => {
       <ProductBrands></ProductBrands>
       <LatestBlog></LatestBlog>
       <Newsletter></Newsletter>
+      <CustomerCare></CustomerCare>
+      <PaymentMethods></PaymentMethods>
       <Testimonials></Testimonials>
+
       <Footer></Footer>
     </div>
   );
